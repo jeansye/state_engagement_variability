@@ -8,7 +8,7 @@ Applying framework to study state engagement variability (SEV) in development
 
 **centroid.mat** -- recurring brain states extracted from the Human Connectome Project dataset (dimension: brain nodes x brain state; first column: fixation; second column: high-cognition; third column: low-cognition; fourth column: transition)
 
-**extact_sev** -- example script extracting SEV from participants 
+**extact_sev** -- example scripts extracting SEV from participants (pnc_sev.m: with scrubbing; hbn_sev.m: without scrubbing) and identifying the stabilization in developmental trajectories
 
 **ef_pred** -- predict EF with SEV
 
