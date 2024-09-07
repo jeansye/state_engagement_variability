@@ -10,8 +10,8 @@ Applying framework to study state engagement variability (SEV) in development
 
 **extact_sev** -- example script extracting SEV from participants 
 
-**ef_predict** -- predict EF with SEV
+**ef_pred** -- predict EF with SEV
 
-**age_predict** -- predict brain age with SEV
+**age_pred** -- predict brain age with SEV
 
 
