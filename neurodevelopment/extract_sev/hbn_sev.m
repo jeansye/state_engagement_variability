@@ -22,7 +22,7 @@ dm_resnorm = zeros(length(sublist),no_tr);
 %% extract sev
 
 for sub = 1:length(sublist)
-	tmp_path = strcat('data/',string(sublist(sub)),'_task-movieDM_bis_matrix_roimean.txt');
+    tmp_path = strcat('data/',string(sublist(sub)),'_task-movieDM_bis_matrix_roimean.txt');
     tmp = importdata(tmp_path);
     tmp = tmp.data;
     tmp(:,1) = []; % remove node label
