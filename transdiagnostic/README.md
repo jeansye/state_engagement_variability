@@ -1,4 +1,4 @@
-# Transdiagnostic testing
+# State engagement variability and cognitive control in transdiagnostic populations
 
 Investigating the relationship between state engagement variability (SEV) and cognitive control in transdiagnostic populations 
 
