@@ -2,7 +2,7 @@
 
 Applying framework to study state engagement variability (SEV) in development 
 
-(Related manuscript: "Variation in moment-to-moment brain state engagement changes across development and contributes to individual differences in executive function")
+Publication: "Variation in moment-to-moment brain state engagement changes across development and contributes to individual differences in executive function" Neuron (2025)
 
 **Within this folder**
 
