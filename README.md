@@ -1,4 +1,4 @@
-# state_engagement_variability
+# State engagement variability
 
 A framework to track the continuous engagement of multiple brain states simultaneously 
 
