@@ -1,4 +1,4 @@
-# transdiagnostic
+# Fransdiagnostic
 
 Investigating the relationship between state engagement variability (SEV) and cognitive control in transdiagnostic populations 
 
